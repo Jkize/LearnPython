@@ -1,0 +1,3 @@
+Para python
+
+python -m pip install Flask-Cors ((aprender))
